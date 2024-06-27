@@ -7,18 +7,20 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    padding-bottom: 150px;
 }
 
 .container {
     text-align: center;
     background-color: #333;
-    padding: 20px;
+    padding: 30px;
     margin-top: 200px;
-    height: 700px;
+    height: 690px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    max-width: 500px;
+    max-width: 600px;
     width: 100%;
+    margin-bottom: 60px;
 }
 
 h1 {
@@ -41,6 +43,7 @@ h1 {
     color: black;
     border: none;
     cursor: pointer;
+    margin-bottom: 20px;
     border-radius: 4px;
 }
 
@@ -89,7 +92,6 @@ button:hover {
     left: 620px;
     margin-top: 20px;
     font-size: 24px;
-    margin-bottom: 200px;
 }
 
 .shockwave {
@@ -113,9 +115,10 @@ button:hover {
     }
 }
 
-p{
+p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     line-height: 0px;
     word-spacing: 0px;
+    margin-bottom: 30px;
 }
